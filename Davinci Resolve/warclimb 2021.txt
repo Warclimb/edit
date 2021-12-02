@@ -1,440 +1,893 @@
-FairlightTimeline.viewTrackWaveformResetZoomSelectedTracks := Alt+Shift+R
-nodesAddBefore := Shift+S
-markMarkerClear := Alt+M
-sessionPrinterLightsMasterPlus := Num++
-sessionPrinterLightsBlueMinus := Num+6
-resolvePreferences := Ctrl+,
-viewTogglePrimariesLogMode := Alt+Z
-editSwitchToTimelineAfterEdit := Alt+Shift+Q
-viewViewerSourceModeToggle := Shift+Q
-editSelectSubPrevious := Ctrl+Left
-fairlightDebugSettings := 
-sessionPrinterLightsMasterMinus := Num+Enter
-sessionMemoriesLoadD := Ctrl+4
-viewStillsStillPlay := Ctrl+Alt+F
-trimFadeOutToPlayhead := Alt+Shift+G
-editAutoSelectToggleAudio3 := Ctrl+Alt+F3
-markResetInOut := Alt+X
-sessionVersionAdd := Ctrl+Y
-fileSaveProjectAs := Ctrl+Shift+S
-sessionGrabLiveGradeFrame := Ctrl+Alt+R
-viewZoomSubZoomOut := Ctrl+-
-viewActiveWindowSelectionMediaPoolClips := Ctrl+2
-controlPlayAroundToPlayAroundOut := Shift+Space
-controlLastFrame := '
-editAutoSelectToggleVideo7 := Alt+F7
-editPaste := Ctrl+V
-editScrubAudio := Shift+S
-viewViewerToggle := Q
-clipAudioDecreaseAudioLevel1dB := Ctrl+Alt+-
-sessionGradeFromOneClipPrior := Shift+=
-controlTimecodeDecrement := - | Num+-
-fileExportXml := Ctrl+Shift+O
-viewTimelineWipeOneFrameForward := Ctrl+Alt+Right
-editTrackLockToggleA7 := Alt+Shift+F7
-viewHighlightHighlightDiff := Ctrl+Shift+H
-sessionPrinterLightsMasterQuarterMinus := Ctrl+Num+Enter
-editMatchFrame := F
-markAudioIn := Ctrl+Alt+I
-viewStillsStillPrev := Ctrl+Alt+B
-sessionPrinterLightsRedQuarterMinus := Ctrl+Num+4
-sessionBaseMemoryReset := Ctrl+Home
-editEnableDisableToggleVideoTrack8 := Ctrl+Shift+8
-workspacePrimaryWorkspaceEdit := Shift+4
-editNudgeTrimStepNudgeForward := .
-editSelectAll := Ctrl+A
-controlStepForward := Right
-viewStillsStillGrab := Ctrl+Alt+G
-markMarkerModify := Shift+M
-editInsertOverwriteActionOverwrite := F10
-sessionPrinterLightsEnable := Ctrl+Alt+`
-editBlade := B
-FairlightTimeline.trimExtendEditSelectionToPreviousEdit := Ctrl+Shift+L
-sessionMemoriesLoadC := Ctrl+3
-editTrackLockToggleA2 := Alt+Shift+F2
-controlTimelineEnd := End
-sessionMemoriesLoadG := Ctrl+7
-controlGapNext := Ctrl+Alt+'
-workspacePrimaryWorkspaceFirstCut := Shift+3
-editMulticamSwitchToAngle5 := Alt+5
-editTrackLockToggleV := Alt+Shift+9
-controlPlayAroundToPlayAroundCurrentClip := Shift+/
-viewTimelineModeCycle := Ctrl+PgDown
-sessionPrinterLightsBluePlus := Num+9
-sessionMemoriesLoadH := Ctrl+8
-controlFastReverse := Shift+J
-fileImportBatchListFromEDL := 
-sessionPrinterLightsMagMinus := Num+0
-editTrackDestinationSelectionTargetV8 := Alt+8
-sessionPrinterLightsBlueQuarterPlus := Ctrl+Num+9
-workspacePrimaryWorkspaceColor := Shift+6
-workspacePrimaryWorkspaceFusion := Shift+5
-editTrim := T
-controlGotoIn := Shift+I
-editAutoSelectToggleAudio6 := Ctrl+Alt+F6
-workspaceLightboxView := Ctrl+Shift+F
-editMulticamCutToAngle3 := 3
-editSelectClipsSelectAllBefore := Ctrl+Alt+Y
-clipChangeClipDuration := Ctrl+D
-fairlightDumpDebugLogs := 
-editLink := Ctrl+Alt+L
-editAutoSelectToggleAudio2 := Ctrl+Alt+F2
-controlScannerPerfStepReverse := Ctrl+J
-viewTimelineModeRecord := 
-sessionGradeFromTwoClipsPrior := Shift+-
-nodesAddSplitterCombiner := Alt+Y
-markMarkerAdd := M
-sessionMemoriesLoadA := Ctrl+1
-sessionMemoriesSaveB := Alt+2
-markConvertInOutToDurationMarker := 
-sessionVersionPrev := Ctrl+B
-FairlightTimeline.trimMoveEditSelectionToPreviousFrame := Ctrl+Alt+,
-nodesAddPPW := Alt+G
-editDelete := Shift+Backspace | Del
-controlClipPrev := Up
-editTrackDestinationSelectionTargetA7 := Ctrl+Alt+7
-editTrackDestinationSelectionTargetA4 := Ctrl+Alt+4
-controlScannerFramingMoveReverse := Ctrl+Left
-viewSafeAreaToggle := 
-FairlightTimeline.editDuplicateSelection := Ctrl+Shift+D
-markFlagAdd := G
-nodesAddLPW := Alt+Q
-editSelectItemAtPlayhead := Shift+V
-markDeleteFlagCurrentSelected := 
-editAutoSelectToggleAudio8 := Ctrl+Alt+F8
-viewZoomActualSize := Alt+Shift+Z
-editClipEnabled := D
-viewZoomSubZoomIn := Ctrl+= | Ctrl++
-editAutoSelectToggleVideo6 := Alt+F6
-controlScannerPerfStepForward := Ctrl+L
-editSlipAudioOneFrameForward := Alt+.
-editNudgeSwapEditReverse := Ctrl+Shift+,
-editMulticamPrevAngle := Ctrl+Shift+Left
-controlFirstFrame := ;
-fileSaveProject := Ctrl+S
-editCut := Ctrl+X
-editToggleVideoAudioSelection := Alt+U
-markConvertDurationMarkerToInOut := 
-editAddAudioTransition := Shift+T
-editAudioMoveTrackDestinationDown := Ctrl+Alt+Down
-editTrackDestinationSelectionTargetA3 := Ctrl+Alt+3
-markResetIn := Alt+I
-clipShowKeyframeEditor := Ctrl+Shift+C
-editTrackLockToggleA8 := Alt+Shift+F8
-editPasteAttributes := Alt+V
-fileEasyDCPImportServerCertificate := 
-FairlightTimeline.trimMoveEditSelectionToNextFrame := Ctrl+Alt+.
-sessionPrinterLightsMasterQuarterPlus := Ctrl+Num++
-editAutoSelectToggleVideoAll := Alt+F9
-clipShowCurveEditor := Shift+C
-timelineSelectionFollowsTimeline := 
-markAudioOut := Ctrl+Alt+O
-viewStillsStillNext := Ctrl+Alt+N
-editSlipAudioOneFrameReverse := Alt+,
-controlLargeStepForward := Shift+Right
-editRangeSelection := R
-gangSourceTimelinePlayheads := Alt+Q
-clipAudioDecreaseAudioLevel3dB := Alt+Shift+-
-editBladeRazor := Ctrl+B
-controlFastForward := Shift+L
-editTrackDestinationSelectionTargetV := Alt+1
-markOut := O
-editVideoMoveTrackDestinationUp := Ctrl+Shift+Up
-viewActiveWindowSelectionSourceViewer := Ctrl+3
-editPointer := A
-sessionPrinterLightsYelQuarterPlus := Ctrl+Num+3
-fileImportMedia := Ctrl+I
-editTrackDestinationSelectionTargetA8 := Ctrl+Alt+8
-editTrackDestinationSelectionTargetA5 := Ctrl+Alt+5
-editNudgeTrimStepTrimMultiFrameRight := Shift+.
-editTrackLockToggleA5 := Alt+Shift+F5
-workspaceVideoScopesToggle := Ctrl+Shift+W
-clipFreezeFrame := Shift+R
-nodesAppend := Alt+K
-FairlightTimeline.trimMoveEditSelectionToPreviousEdit := Ctrl+L
-sessionMemoriesSaveD := Alt+4
-FairlightTimeline.trimExtendEditSelectionToNextTrack := Ctrl+Shift+;
-editInsertOverwriteActionAppendAtEnd := Shift+F12
-editDynamicTrimStop := Ctrl+K
-sessionPrinterLightsRedPlus := Num+7
-controlPlayAroundToPlayToOut := Ctrl+Alt+/
-editPasteValue := Alt+Shift+V
-markClip := X
-sessionMemoriesSaveC := Alt+3
-editMulticamSwitchToAngle6 := Alt+6
-markIn := I
-viewShowViewerOverlay := Shift+`
-trimFadeInToPlayhead := Alt+Shift+D
-editInsertOverwriteActionReplace := F11
-controlTimelineStart := Home
-editMulticamTgtAudio := Alt+Shift+\
-editMulticamPrevPage := Alt+Shift+Left
-sessionMemoriesSaveE := Alt+5
-viewBypassColorGrades := Shift+D
-sessionMemoriesSaveF := Alt+6
-controlPlayAroundToPlayAroundCurrentSelection := /
-sessionTrackReverse := Alt+T
-editTrackLockToggleA4 := Alt+Shift+F4
-viewHighlightHighlightBW := Alt+Shift+H
-sessionTrackStop := Ctrl+Alt+T
-fileEasyDCPExportSignerCertificate := 
-sessionPrinterLightsMagQuarterMinus := Ctrl+Num+0
-nodesToggleAll := Alt+D
-editDeselectAll := Ctrl+Shift+A
-editMulticamCutToAngle6 := 6
-editTrackDestinationSelectionTargetA := Ctrl+Alt+1
-sessionBaseMemoryAll := Ctrl+Shift+Home
-editAutoSelectToggleAudio7 := Ctrl+Alt+F7
-editUndo := Ctrl+Z | `
-editEnableDisableToggleVideoTrack1 := Ctrl+Shift+1
-nodesAddParallel := Alt+P
-controlPlayAroundToPlayInToOut := Alt+/
-controlPlayAroundToPlayToIn := 
-workspacePrimaryWorkspaceDeliver := Shift+8
-editSelectSubAbove := Ctrl+Up
-markMarkerAddAndModify := Ctrl+M
-editTrackDestinationSelectionTargetV3 := Alt+3
-controlPlayToggle := Space
-viewStereoSwitchEyeCycle := Ctrl+.
-sessionMemoriesSaveG := Alt+7
-editAutoSelectToggleVideo3 := Alt+F3
-editSelectEditPoint := V
-editTrackDestinationSelectionTargetV5 := Alt+5
-controlGapPrev := Ctrl+Alt+;
-clipResetRetime := Ctrl+Alt+R
-FairlightTimeline.viewTrackWaveformResetZoomAllTracks := Ctrl+Alt+R
-viewActiveWindowSelectionEditIndex := Ctrl+7
-editMulticamSwitchToAngle8 := Alt+8
-controlPlayForward := L
-editNudgeTrimStepTrimStart := Shift+[
-editMulticamSwitchToAngle1 := Alt+1
-resolveQuit := Ctrl+Q
-controlGotoOut := Shift+O
-workspaceViewerModeFullViewer := Shift+F
-editAutoSelectToggleVideo4 := Alt+F4
-editMulticamTgtVideo := Alt+Shift+]
-sessionPrinterLightsBlueQuarterMinus := Ctrl+Num+6
-controlLargeStepReverse := Shift+Left
-trimRippleStartToPlayhead := Ctrl+Shift+[
-editRevivalRedo := Ctrl+Alt+X
-workspaceViewerModeEnhancedViewer := Alt+F
-fileNewProject := 
-FairlightTimeline.trimCrossfadeSelection := Alt+Shift+F
-editSlipAudioOneSubFrameReverse := Alt+Left
-markMoveSelectedKeyframesRight := 
-editAutoSelectToggleAudio1 := Ctrl+Alt+F1
-fileImportXml := Ctrl+Shift+I
-sessionPrinterLightsGreenQuarterMinus := Ctrl+Num+5
-controlJumpLeft := Ctrl+Alt+Left
-controlTimecodeIncrement := + | Num++
-editMulticamSwitchToAngle7 := Alt+7
-editNudgeTrimStepNudgeReverse := ,
-fileProjectManager := Shift+1
-nodesAddCPW := Alt+C
-controlKeyframePrev := [
-editTrackDestinationSelectionTargetV4 := Alt+4
-workspaceViewerModeCinemaViewer := Ctrl+F | P
-editAutoSelectToggleVideo2 := Alt+F2
-editInsertOverwriteActionPlaceOnTop := F12
-editMulticamSwitchToAngle4 := Alt+4
-viewActiveWindowSelectionInspector := Ctrl+9
-editEnableDisableToggleVideoTrack4 := Ctrl+Shift+4
-viewWindowOutlineCycle := Alt+H
-editMulticamNextPage := Alt+Shift+Right
-editM2JoinClip := Alt+\
-editAddTransition := Ctrl+T
-FairlightTimeline.trimMoveEditSelectionToNextTrack := Ctrl+;
-sessionVersionNext := Ctrl+N
-MediaPool.Context_setPosterFrame := Ctrl+P
-sessionAutoColor := Alt+Shift+C
-viewReferenceReposition := Alt+Shift+R
-controlPlayReverse := J
-sessionMemoriesSaveH := Alt+8
-timelineSourceViewerSwap := Ctrl+PgUp
-fileNewFolder := Ctrl+Shift+N
-trimSelectAudioEditPoint := Shift+E
-markVideoOut := Alt+Shift+O
-sessionMemoriesLoadE := Ctrl+5
-editTrackLockToggleV1 := Alt+Shift+1
-markVideoIn := Alt+Shift+I
-sessionPrinterLightsMagQuarterPlus := Ctrl+Num+2
-viewChannelsRGB := Ctrl+Shift+0
-markKeyframeMakeStatic := Ctrl+]
-viewColorPickerPixelBitDepthCycle := 
-fileExportProject := Ctrl+E
-viewShowAudioFullWaveform := 
-editSelectClipsSelectTrackAfter := Y
-viewActiveWindowSelectionEffects := Ctrl+6
-editTrackLockToggleV5 := Alt+Shift+5
-controlPlaySlow := Shift+K
-editSelectSubNext := Ctrl+Right
-editMulticamCutToAngle1 := 1
-editCopy := Ctrl+C
-editToggleDynamicTrimMode := W
-editMulticamCutToAngle9 := 9
-clipAudioIncreaseAudioLevel3dB := Alt+Shift+=
-editTrackLockToggleV3 := Alt+Shift+3
-FairlightTimeline.trimExtendEditSelectionToPreviousTrack := Ctrl+Shift+P
-viewActiveWindowSelectionTimeline := Ctrl+4
-viewReferenceWipeStyleCycle := Shift+W
-nodesAddSerial := Alt+S
-markResetOut := Alt+O
-editTrackDestinationSelectionTargetV7 := Alt+7
-controlPlayAgain := Alt+L
-sessionMemoriesLoadF := Ctrl+6
-editNudgeTrimStepExtendEdit := E
-editMulticamSwitchToAngle9 := Alt+9
-workspacePrimaryWorkspaceMedia := Shift+2
-editRevivalUndo := Ctrl+Alt+Z
-markMarkerSecondaryAdd := Ctrl+M
-editAutoSelectToggleVideo5 := Alt+F5
-editTrackLockToggleV8 := Alt+Shift+8
-markMoveSelectedKeyframesDown := 
-editMediaStereoModeToLeft := Alt+Shift+,
-editTrackLockToggleA3 := Alt+Shift+F3
-sessionTrackForward := Ctrl+T
-editToggleEditPointType := U
-editAudioMoveTrackDestinationUp := Ctrl+Alt+Up
-sessionPrinterLightsRedQuarterPlus := Ctrl+Num+7
-editMediaStereoModeToBoth := Alt+Shift+/
-editAutoSelectToggleAudio4 := Ctrl+Alt+F4
-markCreateSubClip := Alt+B
-sessionPrinterLightsGreenMinus := Num+5
-editTrackLockToggleA1 := Alt+Shift+F1
-clipRetimeControls := Ctrl+R
-viewTimelineWipeOneFrameReverse := Ctrl+Alt+Left
-editMulticamTgtAudioAndVideo := Alt+Shift+[
-editEnableDisableToggleVideoTrack3 := Ctrl+Shift+3
-editVideoMoveTrackDestinationDown := Ctrl+Shift+Down
-sessionPrinterLightsYelQuarterMinus := Ctrl+Num+.
-editMulticamCutToAngle4 := 4
-editInsertOverwriteActionRippleOverwrite := Shift+F10
-editMulticamCutToAngle2 := 2
-viewSplitScreenModeOnOffToggle := Ctrl+Alt+W
-sessionPrinterLightsGreenQuarterPlus := Ctrl+Num+8
-controlJumpRight := Ctrl+Alt+Right
-editMediaStereoModeToRight := Alt+Shift+.
-controlRenderCacheCycle := Alt+R
-editSlipAudioOneSubFrameForward := Alt+Right
-sessionPrinterLightsRedMinus := Num+4
-MediaPool.Context_clearPosterFrame := Alt+P
-FairlightTimeline.controlFirstFrame := 
-editSlipEyeOppositeEyeOneFrameForward := Ctrl+Alt+.
-markAudioResetInOut := Ctrl+Alt+X
-editNudgeTrimStepTrimEnd := Shift+]
-editEnableDisableToggleVideoTrack2 := Ctrl+Shift+2
-editTrackDestinationSelectionTargetV2 := Alt+2
-editMulticamSwitchToAngle3 := Alt+3
-editTrackLockToggleV2 := Alt+Shift+2
-fileImportProject := 
-sessionBaseMemory := Shift+Home
-editLinkedSelection := Ctrl+Shift+L
-editTrackDestinationSelectionTargetA2 := Ctrl+Alt+2
-FairlightTimeline.trimTrimToSelection := Ctrl+Shift+T
-controlMarkersPrev := Shift+Up
-editSelectClipsSelectAllAfter := Alt+Y
-viewActiveWindowSelectionMediaPoolFolders := Ctrl+1
-fairlightActionsRecord := 
-markKeyframeDeleteAll := 
-controlLoop := Ctrl+/
-nodesPrevious := Alt+Shift+;
-sessionOriginalMemory := Alt+Shift+O
-clipAudioIncreaseAudioLevel1dB := Ctrl+Alt+=
-markMoveSelectedKeyframesUp := 
-controlStop := K
-editMoveClipsUp := Alt+Up
-fileProjectSettings := Shift+9
-sessionLiveGrade := Ctrl+R
-trimToggleSlideMode := S
-editAutoSelectToggleVideo1 := Alt+F1
-editPasteInsert := Ctrl+Shift+V
-editTrackLockToggleA := Alt+Shift+F9
-editEnableDisableToggleVideoTrack7 := Ctrl+Shift+7
-markSelected := Shift+A
-markKeyframeDelete := Alt+]
-nodesExtractCurrent := E
-editTrackDestinationSelectionTargetV6 := Alt+6
-helpManual := 
-editM2SplitClip := Ctrl+\
-viewTimelineModeSource := 
-FairlightTimeline.trimExtendEditSelectionToNextEdit := Shift+Tab | Ctrl+Shift+'
-controlMarkersNext := Shift+Down
-markVideoResetInOut := Alt+Shift+X
-viewZoomSubZoomToFit := Shift+Z
-nodesToggleCurrent := Ctrl+D
-editRedo := Ctrl+Shift+Z
-sessionPrinterLightsCyanMinus := Num+-
-nodesAddLayer := Alt+L
-sessionPrinterLightsMagPlus := Num+2
-FairlightTimeline.editAddTransition := 
-controlKeyframeNext := ]
-sessionVersionDefault := Ctrl+U
-editEnableDisableToggleVideoTrack6 := Ctrl+Shift+6
-resolveCustomizedActions := Ctrl+Alt+K
-editMulticamNextAngle := Ctrl+Shift+Right
-controlPlayAroundToPlayAroundIn := Alt+Space
-FairlightTimeline.controlLastFrame := 
-viewReferenceWipeInvert := Alt+W
-markKeyframeMakeDynamic := Ctrl+[
-editSlipEyeOppositeEyeOneFrameReverse := Ctrl+Alt+,
-editTrackLockToggleV6 := Alt+Shift+6
-sessionLiveGradePause := Ctrl+Shift+R
-controlClipNext := Down
-editEnableDisableToggleVideoTrackAll := Ctrl+Shift+9
-editAddVideoTransition := Alt+T
-markFlagClearAll := 
-editMulticamCutToAngle8 := 8
-clipFindClipInMediaPool := Alt+F
-editAutoSelectToggleVideo8 := Alt+F8
-sessionPrinterLightsCyanQuarterPlus := Ctrl+Num+1
-sessionPrinterLightsYelPlus := Num+3
-nodesAddPCW := Alt+B
-editSelectSubBelow := Ctrl+Down
-sessionTrackOneFrameReverse := Alt+Left
-controlTimecode := = | Num+=
-viewActiveWindowSelectionTimelineViewer := Ctrl+5
-sessionPreviewMemory := Alt+Shift+P
-sessionMemoriesLoadB := Ctrl+2
-resolveAbout := 
-sessionMemoriesSaveA := Alt+1
-workspacePrimaryWorkspaceAudio := Shift+7
-FairlightTimeline.trimMoveEditSelectionToPreviousTrack := Ctrl+P
-editAutoSelectToggleAudio5 := Ctrl+Alt+F5
-sessionPrinterLightsCyanPlus := Num+1
-editTrackDestinationSelectionTargetA6 := Ctrl+Alt+6
-editMoveClipsDown := Alt+Down
-editAutoSelectToggleAudioAll := Ctrl+Alt+F9
-nodesAddOutside := Alt+O
-editRippleCut := Ctrl+Shift+X
-markMoveSelectedKeyframesLeft := 
-editTrackLockToggleA6 := Alt+Shift+F6
-trimSelectVideoEditPoint := Alt+E
-editNudgeSwapEditForward := Ctrl+Shift+.
-trimRippleEndToPlayhead := Ctrl+Shift+]
-editMulticamSwitchToAngle2 := Alt+2
-sessionTrackOneFrameForward := Alt+Right
-editInsertOverwriteActionFitToFill := Shift+F11
-editInsertOverwriteActionInsert := F9
-viewReferenceWipeToggle := Ctrl+W
-editTrackLockToggleV7 := Alt+Shift+7
-controlStepReverse := Left
-editSelectClipsSelectTrackBefore := Ctrl+Y
-controlScannerFramingMoveForward := Ctrl+Right
-editMulticamCutToAngle7 := 7
-fileNewTimeline := Ctrl+N
-editEnableDisableToggleVideoTrack5 := Ctrl+Shift+5
-sessionPrinterLightsCyanQuarterMinus := Ctrl+Num+-
-sessionPrinterLightsGreenPlus := Num+8
-viewZoomViewerToFit := Z
-sessionPrinterLightsYelMinus := Num+.
-viewReferenceWipeModeCycle := Alt+Shift+W
-editNudgeTrimStepTrimMultiFrameLeft := Shift+,
-FairlightTimeline.trimMoveEditSelectionToNextEdit := Ctrl+' | Tab
-editTrackLockToggleV4 := Alt+Shift+4
-viewHighlightHighlight := Shift+H
-markKeyframeTimelineModeCycle := 
-nodesNext := Alt+Shift+'
-editSnapping := N
-editMulticamCutToAngle5 := 5
-editBackspace := Backspace
+editEnableDisableToggleVideoTrack6 := Ctrl+Shift+6
+
+sessionVersionPrev := Ctrl+B
+
+viewTimelineWipeOneFrameReverse := Ctrl+Alt+Left
+
+editSlipAudioOneSubFrameForward := Alt+Right
+
+editSlipEyeOppositeEyeOneFrameReverse := Ctrl+Alt+,
+
+editSelectItemAtPlayhead := Shift+V
+
+viewTimelineModeCycle := Ctrl+PgDown
+
+editMediaStereoModeToRight := Alt+Shift+.
+
+FairlightTimeline.trimMoveEditSelectionToNextFrame := Ctrl+Alt+.
+
+editToggleDynamicTrimMode := H
+
+editMulticamSwitchToAngle6 := Alt+6
+
+controlClipNext := Down
+
+FairlightTimeline.controlFirstFrame := 
+
+FairlightTimeline.trimExtendEditSelectionToPreviousEdit := Ctrl+Shift+L
+
+timelineSourceViewerSwap := Ctrl+PgUp
+
+nodesAddPPW := Alt+G
+
+editMulticamCutToAngle1 := 1
+
+viewWindowOutlineCycle := Alt+H
+
+controlPlayAroundToPlayAroundIn := Alt+Space
+
+controlLargeStepForward := Shift+Right
+
+viewActiveWindowSelectionTimeline := Ctrl+4
+
+fileImportXml := Ctrl+Shift+I
+
+sessionVersionAdd := Ctrl+Y
+
+viewZoomSubZoomToFit := Shift+Z
+
+editSlipAudioOneFrameForward := Alt+.
+
+viewZoomViewerToFit := Z
+
+controlKeyframePrev := [
+
+sessionPrinterLightsRedQuarterMinus := Ctrl+Num+4
+
+nodesAddSerial := Alt+S
+
+FairlightTimeline.trimExtendEditSelectionToNextEdit := Shift+Tab | Ctrl+Shift+'
+
+controlLastFrame := '
+
+editPaste := Ctrl+V
+
+viewTogglePrimariesLogMode := Alt+Z
+
+nodesExtractCurrent := 
+
+editSelectAll := Ctrl+A
+
+controlJumpRight := Ctrl+Alt+Right
+
+resolvePreferences := Ctrl+,
+
 clipChangeClipSpeed := R
+
+controlScannerPerfStepReverse := Ctrl+J
+
+sessionMemoriesLoadC := Ctrl+3
+
+editMulticamNextPage := Alt+Shift+Right
+
+sessionPrinterLightsRedQuarterPlus := Ctrl+Num+7
+
+editEnableDisableToggleVideoTrack3 := Ctrl+Shift+3
+
+sessionAutoColor := Alt+Shift+C
+
+nodesToggleCurrent := Ctrl+D
+
+editMulticamCutToAngle9 := 9
+
+trimFadeOutToPlayhead := Alt+Shift+G
+
+viewZoomActualSize := Alt+Shift+Z
+
+controlTimelineEnd := End
+
+controlKeyframeNext := ]
+
+sessionMemoriesLoadE := Ctrl+5
+
+editMulticamPrevAngle := Ctrl+Shift+Left
+
+editMulticamCutToAngle7 := 7
+
+viewActiveWindowSelectionTimelineViewer := Ctrl+5
+
+resolveAbout := 
+
+markFlagAdd := G
+
+viewShowAudioFullWaveform := 
+
+markVideoResetInOut := Alt+Shift+X
+
+editNudgeTrimStepTrimEnd := 
+
+editSelectSubAbove := Ctrl+Up
+
+editAutoSelectToggleVideo2 := Alt+F2
+
+editSelectClipsSelectAllAfter := Y
+
+editMulticamCutToAngle3 := 3
+
+editLink := Ctrl+Alt+L
+
+controlGapPrev := Ctrl+Alt+;
+
+nodesNext := Alt+Shift+'
+
+sessionPrinterLightsMasterMinus := Num+Enter
+
+editBladeRazor := 
+
+controlPlayAroundToPlayAroundCurrentClip := Shift+/
+
+controlMarkersPrev := Shift+Up
+
+editAutoSelectToggleVideo1 := Alt+F1
+
+sessionBaseMemoryAll := Ctrl+Shift+Home
+
+editNudgeTrimStepExtendEdit := 
+
+nodesAppend := Alt+K
+
+viewActiveWindowSelectionEditIndex := Ctrl+7
+
+editMulticamSwitchToAngle8 := Alt+8
+
+editMulticamSwitchToAngle7 := Alt+7
+
+editTrackLockToggleA4 := Alt+Shift+F4
+
+markClip := X
+
+viewStillsStillPrev := Ctrl+Alt+B
+
+fileExportXml := Ctrl+Shift+O
+
+editAutoSelectToggleAudioAll := Ctrl+Alt+F9
+
+editPasteInsert := Ctrl+Shift+V
+
+sessionPreviewMemory := Alt+Shift+P
+
+editSelectClipsSelectAllBefore := Ctrl+Alt+Y
+
+nodesAddCPW := Alt+C
+
+FairlightTimeline.Context_GoToNextMarker := .
+
+editMulticamTgtAudioAndVideo := Alt+Shift+[
+
+editInsertOverwriteActionReplace := F11
+
+editNudgeTrimStepTrimMultiFrameRight := Shift+.
+
+editEnableDisableToggleVideoTrack7 := Ctrl+Shift+7
+
+FairlightTimeline.trimMoveEditSelectionToPreviousTrack := Ctrl+P
+
+sessionOriginalMemory := Alt+Shift+O
+
+editTrackDestinationSelectionTargetA3 := Ctrl+Alt+3
+
+editMulticamNextAngle := Ctrl+Shift+Right
+
+sessionPrinterLightsGreenPlus := Num+8
+
+editAutoSelectToggleVideo8 := Alt+F8
+
+controlPlayAroundToPlayAroundOut := Shift+Space
+
+sessionPrinterLightsCyanQuarterMinus := Ctrl+Num+-
+
+editNudgeSwapEditForward := Ctrl+Shift+.
+
+editAddVideoTransition := Alt+T
+
+editCopy := Ctrl+C
+
+nodesAddParallel := Alt+P
+
+markKeyframeTimelineModeCycle := 
+
+fileImportProject := 
+
+workspacePrimaryWorkspaceFusion := Shift+5
+
+viewReferenceWipeToggle := Ctrl+W
+
+editToggleVideoAudioSelection := Alt+U
+
+editSelectEditPoint := 
+
+editAutoSelectToggleAudio8 := Ctrl+Alt+F8
+
+clipFindClipInMediaPool := Alt+F
+
+sessionPrinterLightsMagQuarterMinus := Ctrl+Num+0
+
+markKeyframeDelete := Alt+]
+
+sessionTrackOneFrameReverse := Alt+Left
+
+timelineSelectionFollowsTimeline := 
+
+controlPlayAroundToPlayToIn := 
+
+markAudioOut := Ctrl+Alt+O
+
+editMulticamCutToAngle2 := 2
+
+editAutoSelectToggleVideo5 := Alt+F5
+
+sessionLiveGradePause := Ctrl+Shift+R
+
+trimSelectVideoEditPoint := Alt+E
+
+controlMarkersNext := Shift+Down
+
+viewZoomSubZoomOut := Ctrl+-
+
+gangSourceTimelinePlayheads := Alt+Q
+
+editInsertOverwriteActionRippleOverwrite := Shift+F10
+
+editEnableDisableToggleVideoTrack2 := Ctrl+Shift+2
+
+sessionPrinterLightsBlueQuarterMinus := Ctrl+Num+6
+
+editTrackLockToggleV3 := Alt+Shift+3
+
+sessionPrinterLightsCyanMinus := Num+-
+
+markMoveSelectedKeyframesUp := 
+
+clipAudioIncreaseAudioLevel1dB := Ctrl+Alt+=
+
+editTrackDestinationSelectionTargetV7 := Alt+7
+
+sessionMemoriesSaveH := Alt+8
+
+sessionPrinterLightsYelQuarterPlus := Ctrl+Num+3
+
+sessionLiveGrade := Ctrl+R
+
+viewActiveWindowSelectionMediaPoolFolders := Ctrl+1
+
+sessionMemoriesSaveF := Alt+6
+
+editEnableDisableToggleVideoTrackAll := Ctrl+Shift+9
+
+FairlightTimeline.editDuplicateSelection := Ctrl+Shift+D
+
+controlPlayAroundToPlayInToOut := Alt+/
+
+editUndo := Ctrl+Z | `
+
+editAudioMoveTrackDestinationDown := Ctrl+Alt+Down
+
+editLinkedSelection := Ctrl+Shift+L
+
+markVideoOut := Alt+Shift+O
+
+markKeyframeMakeStatic := Ctrl+]
+
+editTrackLockToggleA6 := Alt+Shift+F6
+
+controlFastReverse := Shift+J
+
+fileEasyDCPExportSignerCertificate := 
+
+sessionPrinterLightsGreenMinus := Num+5
+
+sessionMemoriesLoadA := Ctrl+1
+
+editAutoSelectToggleAudio5 := Ctrl+Alt+F5
+
+sessionMemoriesLoadF := Ctrl+6
+
+markMoveSelectedKeyframesDown := 
+
+FairlightTimeline.trimMoveEditSelectionToNextEdit := Ctrl+' | Tab
+
+controlPlayReverse := J | A
+
+sessionPrinterLightsCyanQuarterPlus := Ctrl+Num+1
+
+editMulticamSwitchToAngle2 := Alt+2
+
+sessionMemoriesLoadH := Ctrl+8
+
+viewActiveWindowSelectionInspector := Ctrl+9
+
+editSnapping := N
+
+sessionPrinterLightsYelMinus := Num+.
+
+editTrackDestinationSelectionTargetV6 := Alt+6
+
+sessionTrackOneFrameForward := Alt+Right
+
+workspacePrimaryWorkspaceMedia := Shift+2
+
+editAutoSelectToggleAudio2 := Ctrl+Alt+F2
+
+editAddTransition := Ctrl+T
+
+fileNewProject := 
+
+viewHighlightHighlightBW := Alt+Shift+H
+
+markIn := I
+
+viewHighlightHighlightDiff := Ctrl+Shift+H
+
+editMulticamCutToAngle8 := 8
+
+fairlightActionsRecord := 
+
+editAutoSelectToggleAudio3 := Ctrl+Alt+F3
+
+editCutHead := 
+
+editAutoSelectToggleVideoAll := Alt+F9
+
+editRippleCut := 
+
+editClipEnabled := 
+
+sessionPrinterLightsMagQuarterPlus := Ctrl+Num+2
+
+fileNewTimeline := Ctrl+N
+
+editTrackDestinationSelectionTargetV5 := Alt+5
+
+workspaceVideoScopesToggle := Ctrl+Shift+W
+
+editTrackDestinationSelectionTargetV8 := Alt+8
+
+editMulticamSwitchToAngle3 := Alt+3
+
+sessionPrinterLightsMasterPlus := Num++
+
+sessionVersionNext := Ctrl+N
+
+editRedo := Ctrl+Shift+Z
+
+controlLargeStepReverse := Shift+Left
+
+editNudgeTrimStepNudgeReverse := ,
+
+editAutoSelectToggleVideo4 := Alt+F4
+
+editSlipAudioOneFrameReverse := Alt+,
+
+trimRippleEndToPlayhead := W
+
+sessionPrinterLightsBlueQuarterPlus := Ctrl+Num+9
+
+editAutoSelectToggleAudio4 := Ctrl+Alt+F4
+
+editTrackLockToggleA1 := Alt+Shift+F1
+
+sessionMemoriesLoadD := Ctrl+4
+
+FairlightTimeline.controlLastFrame := 
+
+editNudgeTrimStepTrimStart := 
+
+viewTimelineModeSource := 
+
+editCut := 
+
+editTrackDestinationSelectionTargetV3 := Alt+3
+
+editTrackDestinationSelectionTargetA5 := Ctrl+Alt+5
+
+FairlightTimeline.trimTrimToSelection := Ctrl+Shift+T
+
+viewSplitScreenModeOnOffToggle := Ctrl+Alt+W
+
+viewReferenceWipeModeCycle := Alt+Shift+W
+
+editCutTail := 
+
+trimToggleSlideMode := 
+
+FairlightTimeline.trimMoveEditSelectionToPreviousEdit := Ctrl+L
+
+fileImportMedia := Ctrl+I
+
+clipAudioIncreaseAudioLevel3dB := Alt+Shift+=
+
+viewStillsStillNext := Ctrl+Alt+N
+
+markCreateSubClip := Alt+B
+
+viewStereoSwitchEyeCycle := Ctrl+.
+
+sessionTrackReverse := Alt+T
+
+sessionPrinterLightsGreenQuarterMinus := Ctrl+Num+5
+
+viewChannelsRGB := Ctrl+Shift+0
+
+fileNewFolder := Ctrl+Shift+N
+
+editVideoMoveTrackDestinationUp := Ctrl+Shift+Up
+
+editMediaStereoModeToBoth := Alt+Shift+/
+
+fileSaveProject := Ctrl+S
+
+viewViewerSourceModeToggle := Shift+Q
+
+editAutoSelectToggleVideo3 := Alt+F3
+
+markMarkerClear := Alt+M
+
+controlStop := K | S
+
+sessionTrackStop := Ctrl+Alt+T
+
+editBackspace := Backspace
+
+sessionPrinterLightsYelQuarterMinus := Ctrl+Num+.
+
+sessionPrinterLightsCyanPlus := Num+1
+
+controlPlayAroundToPlayAroundCurrentSelection := /
+
+editTrackLockToggleA5 := Alt+Shift+F5
+
+sessionMemoriesSaveD := Alt+4
+
+trimTrimToSelection := 
+
+controlTimelineStart := Home
+
+editPasteValue := Alt+Shift+V
+
+editTrackDestinationSelectionTargetA2 := Ctrl+Alt+2
+
+markMoveSelectedKeyframesLeft := 
+
+markAudioIn := Ctrl+Alt+I
+
+resolveQuit := Ctrl+Q
+
+controlTimecode := = | Num+=
+
+editMulticamSwitchToAngle4 := Alt+4
+
+editDeselectAll := Ctrl+Shift+A
+
+editTrackDestinationSelectionTargetA6 := Ctrl+Alt+6
+
+editTrackLockToggleV6 := Alt+Shift+6
+
+editInsertOverwriteActionInsert := F9
+
+controlGotoIn := Shift+I
+
+editAutoSelectToggleAudio6 := Ctrl+Alt+F6
+
+editMulticamCutToAngle4 := 4
+
+clipResetRetime := Ctrl+Alt+R
+
+editNudgeTrimStepTrimMultiFrameLeft := Shift+,
+
+editEnableDisableToggleVideoTrack4 := Ctrl+Shift+4
+
+markConvertDurationMarkerToInOut := 
+
+editSelectClipsSelectTrackBefore := Ctrl+Y
+
+editSlipEyeOppositeEyeOneFrameForward := Ctrl+Alt+.
+
+clipAudioDecreaseAudioLevel3dB := Alt+Shift+-
+
+workspaceLightboxView := Ctrl+Shift+F
+
+sessionMemoriesSaveC := Alt+3
+
+editMulticamTgtVideo := Alt+Shift+]
+
+editPasteAttributes := Alt+V
+
+FairlightTimeline.viewTrackWaveformResetZoomAllTracks := Ctrl+Alt+R
+
+editRevivalRedo := Ctrl+Alt+X
+
+sessionGradeFromOneClipPrior := Shift+=
+
+editPointer := V
+
+workspacePrimaryWorkspaceDeliver := Shift+8
+
+editBlade := B
+
+editAutoSelectToggleVideo6 := Alt+F6
+
+clipShowCurveEditor := Shift+C
+
+editSelectSubBelow := Ctrl+Down
+
+nodesToggleAll := Alt+D
+
+editTrackDestinationSelectionTargetA := Ctrl+Alt+1
+
+sessionTrackForward := Ctrl+T
+
+editSelectClipsSelectTrackAfter := 
+
+FairlightTimeline.trimCrossfadeSelection := Alt+Shift+F
+
+controlPlayAroundToPlayToOut := Ctrl+Alt+/
+
+nodesAddSplitterCombiner := 
+
+nodesAddOutside := Alt+O
+
+editM2SplitClip := E
+
+viewShowViewerOverlay := Shift+`
+
+sessionPrinterLightsMasterQuarterMinus := Ctrl+Num+Enter
+
+FairlightTimeline.trimMoveEditSelectionToNextTrack := Ctrl+;
+
+sessionGradeFromTwoClipsPrior := Shift+-
+
+FairlightTimeline.trimExtendEditSelectionToNextTrack := Ctrl+Shift+;
+
+sessionPrinterLightsYelPlus := Num+3
+
+markResetIn := Alt+I
+
+editTrackLockToggleA := Alt+Shift+F9
+
+editScrubAudio := Shift+S
+
+viewStillsStillPlay := Ctrl+Alt+F
+
+viewActiveWindowSelectionEffects := Ctrl+6
+
+editAddAudioTransition := Shift+T
+
+viewBypassColorGrades := Shift+D
+
+sessionMemoriesSaveG := Alt+7
+
+editTrackDestinationSelectionTargetV2 := Alt+2
+
+markMoveSelectedKeyframesRight := 
+
+editAutoSelectToggleAudio1 := Ctrl+Alt+F1
+
+controlJumpLeft := Ctrl+Alt+Left
+
+markAudioResetInOut := Ctrl+Alt+X
+
+editMulticamSwitchToAngle9 := Alt+9
+
+editDynamicTrimStop := Ctrl+K
+
+editAutoSelectToggleVideo7 := Alt+F7
+
+clipShowKeyframeEditor := Ctrl+Shift+C
+
+viewActiveWindowSelectionMediaPoolClips := Ctrl+2
+
+markMarkerAdd := M
+
+controlPlayToggle := Space
+
+sessionMemoriesLoadB := Ctrl+2
+
+trimSelectAudioEditPoint := Shift+E
+
+controlRenderCacheCycle := Alt+R
+
+fileProjectManager := Shift+1
+
+editInsertOverwriteActionPlaceOnTop := F12
+
+editMoveClipsDown := Alt+Down
+
+editTrackDestinationSelectionTargetA4 := Ctrl+Alt+4
+
+sessionPrinterLightsGreenQuarterPlus := Ctrl+Num+8
+
+MediaPool.editDelete := Del | Shift+C
+
+viewReferenceWipeInvert := Alt+W
+
+markDeleteFlagCurrentSelected := 
+
+controlPlayForward := L | D
+
+markOut := O
+
+editDelete := Shift+Backspace | Del
+
+workspaceViewerModeFullViewer := Shift+F
+
+editRevivalUndo := Ctrl+Alt+Z
+
+fileSaveProjectAs := Ctrl+Shift+S
+
+nodesAddBefore := Shift+S
+
+editTrackLockToggleA2 := Alt+Shift+F2
+
+viewSafeAreaToggle := 
+
+editTrackLockToggleV2 := Alt+Shift+2
+
+sessionPrinterLightsBlueMinus := Num+6
+
+EditTimeline.editBackspace := Backspace | C
+
+workspaceViewerModeCinemaViewer := Ctrl+F | P
+
+editTrackLockToggleV1 := Alt+Shift+1
+
+editNudgeTrimStepNudgeForward := .
+
+sessionGrabLiveGradeFrame := Ctrl+Alt+R
+
+nodesAddLayer := Alt+L
+
+viewTimelineModeRecord := 
+
+editAudioMoveTrackDestinationUp := Ctrl+Alt+Up
+
+markConvertInOutToDurationMarker := 
+
+controlFirstFrame := ;
+
+fairlightDebugSettings := 
+
+markResetInOut := Alt+X
+
+controlTimecodeIncrement := + | Num++
+
+viewZoomSubZoomIn := Ctrl+= | Ctrl++
+
+editNudgeSwapEditReverse := Ctrl+Shift+,
+
+sessionPrinterLightsMagPlus := Num+2
+
+editMoveClipsUp := Alt+Up
+
+viewColorPickerPixelBitDepthCycle := 
+
+controlPlaySlow := Shift+K
+
+controlStepForward := Right
+
+markFlagClearAll := 
+
+FairlightTimeline.trimMoveEditSelectionToPreviousFrame := Ctrl+Alt+,
+
+clipFreezeFrame := Shift+R
+
+clipChangeClipDuration := Ctrl+D
+
+fileProjectSettings := Shift+9
+
+editTrackLockToggleV8 := Alt+Shift+8
+
+controlPlayAgain := Alt+L
+
+editTrim := T
+
+workspacePrimaryWorkspaceEdit := Shift+4
+
+editInsertOverwriteActionOverwrite := F10
+
+sessionMemoriesSaveE := Alt+5
+
+editMulticamTgtAudio := Alt+Shift+\
+
+controlStepReverse := Left
+
+editAutoSelectToggleAudio7 := Ctrl+Alt+F7
+
+markSelected := Shift+A
+
+controlFastForward := Shift+L
+
+fairlightDumpDebugLogs := 
+
+controlScannerFramingMoveReverse := Ctrl+Left
+
+fileExportProject := Ctrl+E
+
+sessionPrinterLightsBluePlus := Num+9
+
+editSwitchToTimelineAfterEdit := Alt+Shift+Q
+
+workspacePrimaryWorkspaceColor := Shift+6
+
+editEnableDisableToggleVideoTrack1 := Ctrl+Shift+1
+
+markVideoIn := Alt+Shift+I
+
+viewHighlightHighlight := Shift+H
+
+FairlightTimeline.trimExtendEditSelectionToPreviousTrack := Ctrl+Shift+P
+
+editVideoMoveTrackDestinationDown := Ctrl+Shift+Down
+
+markResetOut := Alt+O
+
+editSelectSubNext := Ctrl+Right
+
+sessionPrinterLightsMasterQuarterPlus := Ctrl+Num++
+
+sessionBaseMemoryReset := Ctrl+Home
+
+editMulticamCutToAngle5 := 5
+
+sessionBaseMemory := Shift+Home
+
+markMarkerSecondaryAdd := Ctrl+M
+
+controlScannerPerfStepForward := Ctrl+L
+
+controlLoop := Ctrl+/
+
+viewActiveWindowSelectionSourceViewer := Ctrl+3
+
+sessionPrinterLightsRedPlus := Num+7
+
+MediaPool.Context_setPosterFrame := Ctrl+P
+
+editTrackLockToggleV5 := Alt+Shift+5
+
+sessionMemoriesSaveA := Alt+1
+
+sessionPrinterLightsRedMinus := Num+4
+
+editRangeSelection := R
+
+editTrackDestinationSelectionTargetV4 := Alt+4
+
+clipRetimeControls := Ctrl+R
+
+editTrackLockToggleA8 := Alt+Shift+F8
+
+editTrackLockToggleA3 := Alt+Shift+F3
+
+fileImportBatchListFromEDL := 
+
+editTrackDestinationSelectionTargetA8 := Ctrl+Alt+8
+
+editMulticamSwitchToAngle1 := Alt+1
+
+markMarkerAddAndModify := Ctrl+M
+
+editTrackDestinationSelectionTargetV := Alt+1
+
+editTrackLockToggleV7 := Alt+Shift+7
+
+controlTimecodeDecrement := - | Num+-
+
+workspacePrimaryWorkspaceFirstCut := Shift+3
+
+editEnableDisableToggleVideoTrack8 := Ctrl+Shift+8
+
+viewViewerToggle := 
+
+trimFadeInToPlayhead := Alt+Shift+D
+
+editSelectSubPrevious := Ctrl+Left
+
+controlGotoOut := Shift+O
+
+markKeyframeMakeDynamic := Ctrl+[
+
+fileEasyDCPImportServerCertificate := 
+
+editMulticamSwitchToAngle5 := Alt+5
+
+workspacePrimaryWorkspaceAudio := Shift+7
+
+editEnableDisableToggleVideoTrack5 := Ctrl+Shift+5
+
+markMarkerModify := Shift+M
+
+editTrackDestinationSelectionTargetA7 := Ctrl+Alt+7
+
+editTrackLockToggleA7 := Alt+Shift+F7
+
+sessionPrinterLightsEnable := Ctrl+Alt+`
+
+FairlightTimeline.Context_GoToPreviousMarker := ,
+
+controlClipPrev := Up
+
+controlScannerFramingMoveForward := Ctrl+Right
+
+resolveCustomizedActions := Ctrl+Alt+K
+
+nodesPrevious := Alt+Shift+;
+
+editToggleEditPointType := U
+
+sessionPrinterLightsMagMinus := Num+0
+
+nodesAddLPW := Alt+Q
+
+MediaPool.Context_clearPosterFrame := Alt+P
+
+editMulticamPrevPage := Alt+Shift+Left
+
+FairlightTimeline.editAddTransition := 
+
+nodesAddPCW := Alt+B
+
+helpManual := 
+
+editM2JoinClip := Alt+\
+
+sessionVersionDefault := Ctrl+U
+
+viewReferenceReposition := Alt+Shift+R
+
+editMatchFrame := F
+
+editInsertOverwriteActionAppendAtEnd := Shift+F12
+
+editTrackLockToggleV4 := Alt+Shift+4
+
+viewReferenceWipeStyleCycle := Shift+W
+
+editMulticamCutToAngle6 := 6
+
+FairlightTimeline.viewTrackWaveformResetZoomSelectedTracks := Alt+Shift+R
+
+editTrackLockToggleV := Alt+Shift+9
+
+viewTimelineWipeOneFrameForward := Ctrl+Alt+Right
+
+markKeyframeDeleteAll := 
+
+trimRippleStartToPlayhead := Q
+
+editMediaStereoModeToLeft := Alt+Shift+,
+
+editInsertOverwriteActionFitToFill := Shift+F11
+
+clipAudioDecreaseAudioLevel1dB := Ctrl+Alt+-
+
+sessionMemoriesSaveB := Alt+2
+
+editSlipAudioOneSubFrameReverse := Alt+Left
+
+workspaceViewerModeEnhancedViewer := Alt+F
+
+sessionMemoriesLoadG := Ctrl+7
+
+controlGapNext := Ctrl+Alt+'
+
+viewStillsStillGrab := Ctrl+Alt+G
